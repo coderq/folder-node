@@ -1,0 +1,14 @@
+{
+  "name": "folder-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/coderq/folder-node.git",
+  "author": "vincent.zyq <vincent.zyq@alibaba-inc.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
